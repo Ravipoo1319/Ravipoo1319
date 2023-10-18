@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Rhythm360](https://www.rhythm360.io/)
 
-- 🌱 I’m currently learning **AWS, NumPy, Pandas**
+- 🌱 I’m currently learning **NumPy, Pandas & AIML**
 
 - 💬 Ask me about **Python, oops and anything related to development.**
 
